@@ -1,0 +1,16 @@
+#cabecera{
+    border: 1px solid rgba(10, 90, 211, 0.933);
+    color: white;
+    background: rgba(0, 92, 116, 0.933);
+}
+
+#cabecera h1{
+    color: white;
+    
+    padding: 5px 10px;
+}
+#cuerpo{
+    margin: 10px;
+    padding: 15px;
+    font-size: 1.2rem;
+}
