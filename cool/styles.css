@@ -23,3 +23,10 @@ body{
     padding: 15px;
     font-size: 1.2rem;
 }
+
+footer{
+    background: #308196;
+    text-align: center;
+    padding: 10px 0;
+    color: #beebf3;
+}
