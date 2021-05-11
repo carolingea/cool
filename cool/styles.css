@@ -1,13 +1,22 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
 #cabecera{
     border: 1px solid rgba(10, 90, 211, 0.933);
     color: white;
     background: rgba(0, 92, 116, 0.933);
 }
+#cabecera #logo{
+    vertical-align: middle;
+}
 
-#cabecera h1{
+#cabecera .text-logo{
     color: white;
-    
-    padding: 5px 10px;
+    font-size: 1.5rem;
+    margin: 0 30px;
 }
 #cuerpo{
     margin: 10px;
