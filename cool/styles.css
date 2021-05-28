@@ -4,28 +4,38 @@ body{
     padding: 0;
 }
 
-#cabecera{
-    border: 1px solid rgba(10, 90, 211, 0.933);
-    color: white;
-    background: rgba(0, 92, 116, 0.933);
+img{
+    margin-right: 20px;
+    margin-top: 5px;
 }
-#cabecera #logo{
+
+header {
+    border: 1px solid rgba(24, 41, 68, 0.933);
+    color: white;
+    background: rgb(12 24 46);
+}
+header #logo{
     vertical-align: middle;
 }
 
-#cabecera .text-logo{
-    color: white;
-    font-size: 1.5rem;
+header .text-logo{
+    color: whitesmoke;
+    font-size: 2rem;
     margin: 0 30px;
+    font-style: italic;
 }
 #cuerpo{
-    margin: 10px;
-    padding: 15px;
+    padding: 25px;
     font-size: 1.2rem;
+    background: whitesmoke;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 1px;
 }
 
 footer{
-    background: #308196;
+    background: #0c182e;
     text-align: center;
     padding: 10px 0;
     color: #beebf3;
