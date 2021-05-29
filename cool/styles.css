@@ -20,13 +20,13 @@ header #logo{
 
 header .text-logo{
     color: whitesmoke;
-    font-size: 1rem;
+    font-size: 2rem;
     margin: 0 30px;
     font-style: italic;
 }
 #cuerpo{
     padding: 25px;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     background: whitesmoke;
     width: 80%;
     margin: auto;
