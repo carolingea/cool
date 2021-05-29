@@ -20,7 +20,7 @@ header #logo{
 
 header .text-logo{
     color: whitesmoke;
-    font-size: 2rem;
+    font-size: 1rem;
     margin: 0 30px;
     font-style: italic;
 }
